@@ -298,5 +298,5 @@ def main(train_path, test_path, writepath):
     y_test = get_sub(test_Id, test_matrix, classifier, writepath, category2idx)
     print("main function finished!")
     
-main("train.csv", "test.csv", "sub_NumpyOnly.csv")
+main("./data/train.csv", "./data/test.csv", "./data/sub_NumpyOnly.csv")
 
