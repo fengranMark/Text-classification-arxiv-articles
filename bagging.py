@@ -32,7 +32,7 @@ import random
 
 train = pd.read_csv('train.csv', sep=',', usecols=[0,1,2])
 headers = list(train.columns.values)
-# category2idx
+# category2idx 
 category_list = []
 category2idx = {}
 idx = 0
