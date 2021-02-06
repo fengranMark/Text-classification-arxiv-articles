@@ -1,4 +1,5 @@
 # Text-classification-arxiv-articles
+A machine learning class project - IFT6390
 
 MulNB_NumpyOnly.py is implemented from scratch to train a Naive Bayes classifier for text classification.
 
